@@ -1,0 +1,2 @@
+# AnimalGalleryApp
+ UITapGestureRecognizer,UISwipeGestureRecognizer,UIPanGestureRecognizer
